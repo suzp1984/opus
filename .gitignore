@@ -81,3 +81,5 @@ silk/float/x64
 src/Debug
 src/Release
 src/x64
+android-toolchain-armv7-a/
+opus-android-armv7-a/
